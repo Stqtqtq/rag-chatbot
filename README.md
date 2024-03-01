@@ -1,1 +1,1 @@
-# rag-chatbot-langchain-js
+# rag-chatbot
